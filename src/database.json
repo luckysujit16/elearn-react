@@ -1,0 +1,28 @@
+{
+  "batches": [
+    {
+      "course": "UI developer",
+      "startDate": "16-04-2024",
+      "timing": "9AM to 10AM",
+      "duration": 75,
+      "trainer": "Bhargav",
+      "id": "968e"
+    },
+    {
+      "course": "Node Js",
+      "startDate": "17-04-2024",
+      "timing": "10AM to 11AM",
+      "duration": 75,
+      "trainer": "Pradeep",
+      "id": "3b0b"
+    },
+    {
+      "course": "React Js",
+      "startDate": "20-04-2024",
+      "timing": "1PM to 2PM",
+      "duration": 75,
+      "trainer": "Bhargav",
+      "id": "9aad"
+    }
+  ]
+}
